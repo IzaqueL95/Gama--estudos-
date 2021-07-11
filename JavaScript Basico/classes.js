@@ -44,6 +44,7 @@ class Person {
 let person = new Person('izaque')
 person.name = 'Liborio'
 console.log(person.name)
+console.log(person.name)
 
 
 /*
