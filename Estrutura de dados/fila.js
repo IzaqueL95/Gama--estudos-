@@ -11,4 +11,4 @@ function findNumPosition(num){
 console.log(findNumPosition(40));
 console.log(findNumPosition(12));
 
-//CTRL ALT + N 
+//CTRL ALT + N n
